@@ -1,13 +1,17 @@
 # Huffman-Coding
+
 **HUFFMAN KODLAMASI?**
+
 Bu proje, Huffman kodlaması kullanarak metin sıkıştırma işlemi gerçekleştiren bir Java uygulamasını içerir.
 
 
 **HUFFMAN KODLAMASI NEDİR?**
+
 Huffman kodlaması, bilgiyi daha az yer kaplayacak şekilde sıkıştırmak için kullanılan bir yöntemdir. Bu yöntemde, sık kullanılan karakterlere daha kısa kodlar atanarak daha az bit kullanılır.
 
 
 **NASIL KULLANILIR?**
+
 *1-Metin Sıkıştırma:*
 HuffmanCoding sınıfı içinde bulunan main metodu çalıştırılarak bir metin dosyası sıkıştırılabilir.
 metin.txt dosyasına sıkıştırılacak metin yazılır.
